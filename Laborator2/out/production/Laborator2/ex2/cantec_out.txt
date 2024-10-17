@@ -1,0 +1,4 @@
+Aceasta este o linie de test | Cuvinte: 6 | Vocale: 12
+Altă linie pentru testare | Cuvinte: 4 | Vocale: 9
+O linie terminată cu ii | Cuvinte: 5 | Vocale: 10 *
+Vers random | Cuvinte: 2 | Vocale: 3

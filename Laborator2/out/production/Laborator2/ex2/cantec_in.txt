@@ -1,0 +1,4 @@
+Aceasta este o linie de test
+Altă linie pentru testare
+O linie terminată cu ii
+Vers random

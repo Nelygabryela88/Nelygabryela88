@@ -1,0 +1,5 @@
+
+Suma= 27
+Media= 4.5
+Min= 2
+Max= 8
