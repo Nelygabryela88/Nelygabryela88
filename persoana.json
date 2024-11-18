@@ -1,0 +1,14 @@
+[ {
+  "nume" : "Nely",
+  "tipul" : "STUDENT",
+  "data_nasterii" : [ 2003, 11, 8 ],
+  "an" : 3,
+  "specializare" : "IS",
+  "facultate" : "AC"
+}, {
+  "nume" : "Bican",
+  "tipul" : "PROFESOR",
+  "data_nasterii" : [ 1970, 5, 12 ],
+  "materie_predata" : "Matematica",
+  "vechime" : 10
+} ]
