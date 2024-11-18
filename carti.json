@@ -1,0 +1,67 @@
+[
+  {
+    "titlu": "Amintiri din copilărie",
+    "gen": "FICTIUNE",
+    "anulPublicarii": 1881,
+    "autori": [
+      {
+        "nume": "Ion Creangă",
+        "nationalitate": "România",
+        "varsta": 37
+      }
+    ]
+  },
+  {
+    "titlu": "Poezii",
+    "gen": "FICTIUNE",
+    "anulPublicarii": 1883,
+    "autori": [
+      {
+        "nume": "Mihai Eminescu",
+        "nationalitate": "România",
+        "varsta": 39
+      }
+    ]
+  },
+  {
+    "titlu": "Călătorie spre centrul Pământului",
+    "gen": "STIINTA",
+    "anulPublicarii": 1864,
+    "autori": [
+      {
+        "nume": "Jules Verne",
+        "nationalitate": "Franța",
+        "varsta": 58
+      }
+    ]
+  },
+  {
+    "titlu": "Aventurile lui Tom Sawyer",
+    "gen": "FICTIUNE",
+    "anulPublicarii": 1876,
+    "autori": [
+      {
+        "nume": "Mark Twain",
+        "nationalitate": "SUA",
+        "varsta": 45
+      }
+    ]
+  },
+  {
+    "titlu": "Balade și Idile",
+    "gen": "FICTIUNE",
+    "anulPublicarii": 1893,
+    "autori": [
+      {
+        "nume": "George Coșbuc",
+        "nationalitate": "România",
+        "varsta": 38
+      },
+      {
+        "nume": "Ion Creangă",
+        "nationalitate": "România",
+        "varsta": 37
+      }
+    ]
+  }
+]
